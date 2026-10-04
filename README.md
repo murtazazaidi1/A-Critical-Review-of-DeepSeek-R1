@@ -39,7 +39,6 @@ Updates to reach 90% success (mean ± SD over 30 seeds). ">600" means no run rea
 | 3 | 81 ± 16 | 81 ± 16 | 51 ± 16 |
 | 10 | 51 ± 16 | 51 ± 16 | 45 ± 16 |
 
-
 GRPO reached 90% success faster than both alternatives at every learning rate, and the gap shrank as the learning rate grew. The value baseline made no difference, which is expected because successes are rare and the running average stays near zero.
 
 ### How to read this
